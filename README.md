@@ -26,7 +26,7 @@ installing the uninstalled build tool, compilation will proceed.
 <br>
 어플리케이션을 휴대폰에 실행시키면 다음과 같이 나옵니다.
 <hr><br>
-<img width="200" height="350" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/12.jpg"/>
+<img width="350" height="350" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/12.jpg"/>
 ●The application is created in the phone menu.
 <br>
 그리고 휴대폰 메뉴에 어플리케이션이 생성됩니다.
@@ -40,7 +40,7 @@ installing the uninstalled build tool, compilation will proceed.
 ●Open the AndroidManifest.xml file in your app's manifests folder,( android: icon = "@ drawable / ) will change the image file name.
 <br>
 앱의 manifests 폴더안 AndroidManifest.xml 파일을 열어( android:icon="@drawable/ ) 부분에 이미지 파일명을 적어주면 바뀝니다.
-<img width="200" height="350" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/10.jpg"/>
+<img width="350" height="350" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/10.jpg"/>
 <hr><br>
 <img width="500" height="300" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/11.PNG"/>
 
