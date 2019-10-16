@@ -42,7 +42,7 @@ installing the uninstalled build tool, compilation will proceed.
 앱의 manifests 폴더안 AndroidManifest.xml 파일을 열어( android:icon="@drawable/ ) 부분에 이미지 파일명을 적어주면 바뀝니다.
 <img width="200" height="350" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/10.jpg"/>
 <hr><br>
-<img width="500" height="300" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/5.PNG"/>
+<img width="500" height="300" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/11.PNG"/>
 
 ●If you want to change the name of the application, you can change the name in the label part.And if you want to remove the title part of the app launch screen,<br>
 Ctrl + click on (style / AppTheme) in (android: theme = "@ style / AppTheme") and you'll see (styles.xml).
@@ -50,6 +50,6 @@ Ctrl + click on (style / AppTheme) in (android: theme = "@ style / AppTheme") an
 <br>
 또한 어플리케이션의 이름을 바꾸고 싶을땐 label 부분에 이름을 바꿔주시면 됩니다. 그리고 앱 실행 화면의 타이틀 부분을 없애고 싶을땐,( android:theme="@style/AppTheme" )에 ( style/AppTheme ) 부분을 Ctrl 버튼을 누른채로 클릭을 해주면( styles.xml )이 뜨는데, &lt; item name="windowNoTitle">true &lt;/item> 를 넣어주시면 타이틀이 제거 됩니다.
 
-<img width="210" height="100" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/11.jpg"/>
+<img width="200" height="350" src="https://github.com/Bono-kim/Create-Android-Application/blob/master/11.jpg"/>
 ●The title has been removed.
 <br>타이틀이 제거되었습니다.
